@@ -1,0 +1,3 @@
+Proporcionar conhecimentos e competências aos participantes em técnicas, ferramentas e tecnologias para o desenvolvimento de requisitos arquiteturais necessários à construção de software e para modelar e documentar arquiteturas de software;
+
+- Capacitar o participante para propor soluções para integrar softwares distribuídos do ponto de vista de banco de dados, gerenciamento de processos de negócio (BPM) e Microsserviços.
