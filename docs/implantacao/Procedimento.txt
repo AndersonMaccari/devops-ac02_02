@@ -1,0 +1,5 @@
+Neste item de procedimento nós faremos o manual do úsuário descrevendo 
+as Funcionalidades do Sistema com pontos relevantes para que o usuário consiga
+utilizar o sistema sem nenhum problema.
+Faremos também uma visão tecnologica Conhecendo o sistema com as partes em que o 
+sistema está dividido, trazendo detalhes da arquitetura do sistema, notificar eventuais problemas.
