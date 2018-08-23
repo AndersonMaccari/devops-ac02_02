@@ -1,0 +1,2 @@
+Definir quem será o usuário, escrever as necessidades do usuário de modo que ele possa compreendê-lo, explicar o problema que o usuário tentando solucionar e apresentar a solução, definir passos para a utilização do software.
+No manual terá especificações do que é o software, das ferramentas, utilização, dicas, e processos de atualização como, deletar ou criar novas funções, em si o uso do software é de fácil entendimento uma explicação verbal é o suficiente o manual reforça a pratica do software.
