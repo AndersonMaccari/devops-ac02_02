@@ -1,0 +1,12 @@
+O sistema deve cadastrar os clientes
+
+O sistema deve mostrar relatórios de comprar de cada cliente.
+
+O sistema deve apresentar produtos para venda.
+
+O sistema deve controlar o fluxo de caixa.
+
+O sistema deve cadastrar fornecedores.
+
+O sistema deve controlar o estoque.
+
