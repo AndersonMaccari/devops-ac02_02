@@ -1,0 +1,6 @@
+     O Código fonte serve para fazer o programa funcionar,a partir de
+comandos que sao feitos por palavras ou símbolos, como fazer contas, 
+conversar com o banco de dados    
+     O Código é muito importante, é preciso alquem muito habilidoso
+que saiba a linguagem que ele esta trabalhando para um bom programa,
+pois um código feio é ruim para a manutemção  
