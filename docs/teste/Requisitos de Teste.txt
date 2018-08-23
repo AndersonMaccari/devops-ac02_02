@@ -1,0 +1,2 @@
+Irei realizar testes na rotina dos sistema Os testes serão realizados manualmente no ambiente do software, com serie de repetições nas rotinas e geração de arquivo para identificação de erros, bugs e inconsistencias  .
+ verificar se todos requisitos e componestes e arquivos gerados pelo sistema está funcionando e seguinto corretamente os requisitos estabelecidos no Software.Toda analise de erros serão emcaminhadas ao setor de programação para analise . 
